@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "coinmarketcap-api": "^3.1.1",
+    "express": "^4.17.2",
+    "net": "^1.0.2",
+    "node-coinmarketcap": "^0.2.0"
+  }
+}
